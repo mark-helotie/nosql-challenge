@@ -9,6 +9,10 @@ There are two Jupyter notebook scripts presented as deliverables:
 2_NoSQL_analysis_Helotie.ipynb
 
 
+
+
+
+
 To validate that the initial import works properly, here is the command-line output from the 'mongoimport':
 ![image](https://github.com/mark-helotie/nosql-challenge/assets/43053988/c5a5c725-e681-4520-a445-f2d7d5f83213)
 
